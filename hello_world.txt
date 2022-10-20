@@ -1,3 +1,5 @@
 Hello there students!
 
-If you are seeing this file, that means you have successfully learned how to clone a repo and utilize it. Continue on!
+If you are seeing this file, that means you have successfully learned how to clone a repo and utilize it. You are finished the course!
+
+SECRET CODE-WORD: "I-MASTERED-PYTHON"
